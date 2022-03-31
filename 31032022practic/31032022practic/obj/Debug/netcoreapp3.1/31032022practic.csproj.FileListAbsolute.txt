@@ -1,0 +1,14 @@
+C:\Users\Ayten\Desktop\31032022practic\31032022practic\bin\Debug\netcoreapp3.1\31032022practic.exe
+C:\Users\Ayten\Desktop\31032022practic\31032022practic\bin\Debug\netcoreapp3.1\31032022practic.deps.json
+C:\Users\Ayten\Desktop\31032022practic\31032022practic\bin\Debug\netcoreapp3.1\31032022practic.runtimeconfig.json
+C:\Users\Ayten\Desktop\31032022practic\31032022practic\bin\Debug\netcoreapp3.1\31032022practic.runtimeconfig.dev.json
+C:\Users\Ayten\Desktop\31032022practic\31032022practic\bin\Debug\netcoreapp3.1\31032022practic.dll
+C:\Users\Ayten\Desktop\31032022practic\31032022practic\bin\Debug\netcoreapp3.1\31032022practic.pdb
+C:\Users\Ayten\Desktop\31032022practic\31032022practic\obj\Debug\netcoreapp3.1\31032022practic.csproj.AssemblyReference.cache
+C:\Users\Ayten\Desktop\31032022practic\31032022practic\obj\Debug\netcoreapp3.1\31032022practic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayten\Desktop\31032022practic\31032022practic\obj\Debug\netcoreapp3.1\31032022practic.AssemblyInfoInputs.cache
+C:\Users\Ayten\Desktop\31032022practic\31032022practic\obj\Debug\netcoreapp3.1\31032022practic.AssemblyInfo.cs
+C:\Users\Ayten\Desktop\31032022practic\31032022practic\obj\Debug\netcoreapp3.1\31032022practic.csproj.CoreCompileInputs.cache
+C:\Users\Ayten\Desktop\31032022practic\31032022practic\obj\Debug\netcoreapp3.1\31032022practic.dll
+C:\Users\Ayten\Desktop\31032022practic\31032022practic\obj\Debug\netcoreapp3.1\31032022practic.pdb
+C:\Users\Ayten\Desktop\31032022practic\31032022practic\obj\Debug\netcoreapp3.1\31032022practic.genruntimeconfig.cache
